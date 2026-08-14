@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+chroma_db/
+faq_hash.txt
+chat_history.jsonl
+
+.DS_Store
+Thumbs.db
+
+.idea/
+.vscode/
+*.swp
